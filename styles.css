@@ -79,15 +79,6 @@ h2 {
     left: 47rem;
 }
 
-hr.style-seven {
-    overflow: visible;
-    height: 30px;
-    border-style: solid;
-    border-color: black;
-    border-width: 1px 0 0 0;
-    border-radius: 20px;
-}
-
 @media screen and (min-width: 400px) {
     .body {
         padding: 5rem;
