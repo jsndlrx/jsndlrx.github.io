@@ -26,8 +26,8 @@ body {
 }
 
 #image-track > .image {
-    width: 40vmin;
-    height: 56vmin;
+    width: 20vmin;
+    height: 38vmin;
     object-fit: cover;
     object-position: 100% 50%;
 }
@@ -48,14 +48,15 @@ body {
     #letter-container {
         position: relative;
         top: -5%;
+        left: 10%;
         width: 110vw;
         height: 50vh;
-        padding: 2rem;
+        padding: 5rem;
         overflow-y: auto;
         box-sizing: border-box;
         color: #FFF;
         font-family: 'Poppins', sans-serif;
-        font-size: 60px;
+        font-size: 40px;
         font-weight: 200;
         text-align: center;
         display: flex;
