@@ -47,8 +47,8 @@ body {
 
     #letter-container {
         position: relative;
-        top: 5%;
-        width: 150vw;
+        top: -5%;
+        width: 90vw;
         height: 50vh;
         padding: 2rem;
         overflow-y: auto;
@@ -66,7 +66,7 @@ body {
 
     #image-track {
         
-        margin-top: 70rem;
+        margin-top: 30rem;
         display: flex;
         gap: 4vmin;
         position: absolute; left: 30%; top: 50%; transform: translate(0%, -50%);
