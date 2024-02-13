@@ -48,7 +48,7 @@ body {
     #letter-container {
         position: relative;
         top: -5%;
-        width: 90vw;
+        width: 100vw;
         height: 50vh;
         padding: 2rem;
         overflow-y: auto;
@@ -73,8 +73,8 @@ body {
     }
 
     #image-track > .image {
-        width: 100vmin;
-        height: 134.4vmin;
+        width: 60vmin;
+        height: 76.12vmin;
         object-fit: cover;
         object-position: 100% 50%;
     }
